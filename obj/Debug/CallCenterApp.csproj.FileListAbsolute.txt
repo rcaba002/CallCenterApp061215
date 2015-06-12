@@ -1,0 +1,8 @@
+C:\Work\Claim\CallCenterApp\bin\Debug\CallCenterApp.exe.config
+C:\Work\Claim\CallCenterApp\bin\Debug\CallCenterApp.exe
+C:\Work\Claim\CallCenterApp\bin\Debug\CallCenterApp.pdb
+C:\Work\Claim\CallCenterApp\obj\Debug\CallCenterApp.csprojResolveAssemblyReference.cache
+C:\Work\Claim\CallCenterApp\obj\Debug\CallCenterApp.exe
+C:\Work\Claim\CallCenterApp\obj\Debug\CallCenterApp.pdb
+C:\Work\Claim\CallCenterApp\bin\Debug\ClassLibrary.Core.dll
+C:\Work\Claim\CallCenterApp\bin\Debug\ClassLibrary.Core.pdb

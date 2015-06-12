@@ -1,0 +1,5 @@
+C:\Work\Claim\ClassLibrary.Core\bin\Debug\ClassLibrary.Core.dll
+C:\Work\Claim\ClassLibrary.Core\bin\Debug\ClassLibrary.Core.pdb
+C:\Work\Claim\ClassLibrary.Core\obj\Debug\ClassLibrary.Core.csprojResolveAssemblyReference.cache
+C:\Work\Claim\ClassLibrary.Core\obj\Debug\ClassLibrary.Core.dll
+C:\Work\Claim\ClassLibrary.Core\obj\Debug\ClassLibrary.Core.pdb

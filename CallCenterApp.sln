@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallCenterApp", "CallCenterApp.csproj", "{1FF08E31-95FB-4AD2-BF3E-C31A18677E24}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2ECC3A82-CAFA-4B4A-816E-1918D8402396} = {2ECC3A82-CAFA-4B4A-816E-1918D8402396}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary.Core", "ClassLibrary.Core\ClassLibrary.Core.csproj", "{2ECC3A82-CAFA-4B4A-816E-1918D8402396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FF08E31-95FB-4AD2-BF3E-C31A18677E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF08E31-95FB-4AD2-BF3E-C31A18677E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF08E31-95FB-4AD2-BF3E-C31A18677E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF08E31-95FB-4AD2-BF3E-C31A18677E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ECC3A82-CAFA-4B4A-816E-1918D8402396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECC3A82-CAFA-4B4A-816E-1918D8402396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECC3A82-CAFA-4B4A-816E-1918D8402396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECC3A82-CAFA-4B4A-816E-1918D8402396}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
